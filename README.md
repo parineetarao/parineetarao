@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/parineetarao/parineetarao/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
 
+<!-- ===================== HEADER ===================== -->
+
 <h1 align="center">
   <a href="https://github.com/parineetarao">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1200&color=FF8A3D&center=true&vCenter=true&width=520&height=60&lines=Hi%2C+I'm+Parineeta+%F0%9F%91%8B" alt="Hi, I'm Parineeta" />
@@ -26,27 +28,42 @@
 
 <br/>
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ===================== STUFF I'VE BUILT ===================== -->
 
-<h2 align="center">🔗 Connect with me</h2>
+<h2 align="center">📌 Stuff I've built</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parineeta-rao-14097a355/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/pari4wh" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:parineetarao201@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/parineetarao/stratum">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=stratum&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="Stratum" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/parineetarao/earning-lens">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=earning-lens&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="EarningLens" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/parineetarao/meridian-intelligence">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=meridian-intelligence&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="Meridian Intelligence" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/parineetarao/pii-guardrail">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=pii-guardrail&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="PII Guardrail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ===================== UNDER THE HOOD ===================== -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Under the hood</h2>
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -87,42 +104,27 @@
 
 <br/>
 
-<!-- ===================== PINNED PROJECTS ===================== -->
+<!-- ===================== AROUND THE INTERNET ===================== -->
 
-<h2 align="center">📌 Pinned Projects</h2>
+<h2 align="center">🌐 Around the internet</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/parineetarao/stratum">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=stratum&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="Stratum" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/parineetarao/earning-lens">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=earning-lens&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="EarningLens" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/parineetarao/meridian-intelligence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=meridian-intelligence&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="Meridian Intelligence" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/parineetarao/pii-guardrail">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=pii-guardrail&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="PII Guardrail" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/parineeta-rao-14097a355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:parineetarao201@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://x.com/pari4wh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
 <br/>
 
-<!-- ===================== GITHUB STATS ===================== -->
+<!-- ===================== STATS ===================== -->
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 Stats</h2>
 
 <p align="center">
   <a href="https://github.com/parineetarao">
@@ -140,23 +142,25 @@
 <!-- Contribution graph -->
 <p align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/parineetarao/parineetarao/output/activity-graph.svg" width="100%" />
+    <img src="https://raw.githubusercontent.com/parineetarao/parineetarao/output/activity-graph.svg" alt="Contribution Activity Graph" width="100%" />
   </picture>
 </p>
 
 <br/>
 
-<!-- ===================== QUOTE ===================== -->
+<!-- ===================== FOR WHAT IT'S WORTH ===================== -->
+
+<h2 align="center">💬 For what it's worth</h2>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8A3D,100:8B5CF6&height=2&section=header" width="45%" alt="divider" />
 </p>
 
 <h3 align="center">
-  <i>“Talk is cheap. Show me the code.”</i>
+  <i>“Win a no-win situation by rewriting the rules.”</i>
 </h3>
 <p align="center">
-  <sub>— Linus Torvalds</sub>
+  <sub>— Harvey Specter</sub>
 </p>
 
 <br/>
