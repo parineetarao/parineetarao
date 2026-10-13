@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/parineetarao/parineetarao/main/assets/banner.png" alt="Banner" width="100%" />
 </p>
@@ -14,7 +13,11 @@
 </p>
 
 <p align="center">
-  <i>I like building and shipping AI products, and turning messy data into things people can actually use.</i>
+  <i>I like building AI solutions, making sense of data, and streamlining workflows.</i>
+</p>
+
+<p align="center">
+  <code>focus = ["LLMs", "RAG", "NLP", "Applied ML", "Automation"]</code>
 </p>
 
 <br/>
@@ -84,7 +87,6 @@
 
 <h2 align="center">📌 Pinned Projects</h2>
 
-<!-- Change repo= values if your repo names differ (case-sensitive) -->
 <table align="center">
   <tr>
     <td align="center">
@@ -94,19 +96,19 @@
     </td>
     <td align="center">
       <a href="https://github.com/parineetarao/earning-lens">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=earninglens&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="EarningLens" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=earning-lens&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="EarningLens" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/parineetarao/meridian-intelligence">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=meridian&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="Meridian" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=meridian-intelligence&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="Meridian Intelligence" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/parineetarao/pii-guardrail">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=pii-privacy-guardrail&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="PII Privacy Guardrail" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=pii-guardrail&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="PII Guardrail" />
       </a>
     </td>
   </tr>
@@ -131,9 +133,17 @@
   <img src="https://streak-stats.demolab.com?user=parineetarao&theme=dark&hide_border=false&background=0D1117&border=2A2F3A&stroke=2A2F3A&ring=FF8A3D&fire=FF8A3D&currStreakNum=C9D1D9&currStreakLabel=FF8A3D&sideNums=C9D1D9&sideLabels=8B5CF6&dates=8B949E" alt="GitHub Streak" />
 </p>
 
+<!-- Contribution activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parineetarao&bg_color=0D1117&color=FF8A3D&line=FF8A3D&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&title_color=FF8A3D&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parineetarao&bg_color=0d1117&color=ff8a3d&line=ff8a3d&point=ffffff&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="100%" />
 </p>
+
+<!--
+  BACKUP (if the graph above is blank): delete the block above and use this heatmap instead.
+  <p align="center">
+    <img src="https://ghchart.rshah.org/ff8a3d/parineetarao" alt="Contribution Heatmap" width="100%" />
+  </p>
+-->
 
 <br/>
 
