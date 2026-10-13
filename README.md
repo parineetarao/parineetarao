@@ -1,16 +1,159 @@
-## Hi there 👋
 
-<!--
-**parineetarao/parineetarao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parineetarao/parineetarao/main/assets/banner.png" alt="Banner" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <a href="https://github.com/parineetarao">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1200&color=FF8A3D&center=true&vCenter=true&width=520&height=60&lines=Hi%2C+I'm+Parineeta+%F0%9F%91%8B" alt="Hi, I'm Parineeta" />
+  </a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8A3D,100:8B5CF6&height=2&section=header" width="45%" alt="divider" />
+</p>
+
+<p align="center">
+  <i>I like building and shipping AI products, and turning messy data into things people can actually use.</i>
+</p>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🔗 Connect with me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parineeta-rao-14097a355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/pari4wh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:parineetarao201@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h4 align="center">Languages</h4>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
+</p>
+
+<h4 align="center">ML &amp; GenAI</h4>
+<p align="center">
+  <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
+  <a href="https://keras.io/" target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /></a>
+</p>
+
+<h4 align="center">Backend &amp; Data</h4>
+<p align="center">
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://duckdb.org/" target="_blank"><img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank"><img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
+  <a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" /></a>
+</p>
+
+<br/>
+
+<!-- ===================== PINNED PROJECTS ===================== -->
+
+<h2 align="center">📌 Pinned Projects</h2>
+
+<!-- Change repo= values if your repo names differ (case-sensitive) -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/parineetarao/stratum">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=stratum&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="Stratum" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/parineetarao/earning-lens">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=earninglens&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="EarningLens" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/parineetarao/meridian-intelligence">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=meridian&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="Meridian" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/parineetarao/pii-guardrail">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=parineetarao&repo=pii-privacy-guardrail&show_owner=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="PII Privacy Guardrail" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/parineetarao">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=parineetarao&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&icon_color=8B5CF6&border_color=2A2F3A" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/parineetarao?tab=repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parineetarao&layout=compact&langs_count=6&hide_border=false&bg_color=0D1117&title_color=FF8A3D&text_color=C9D1D9&border_color=2A2F3A" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=parineetarao&theme=dark&hide_border=false&background=0D1117&border=2A2F3A&stroke=2A2F3A&ring=FF8A3D&fire=FF8A3D&currStreakNum=C9D1D9&currStreakLabel=FF8A3D&sideNums=C9D1D9&sideLabels=8B5CF6&dates=8B949E" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parineetarao&bg_color=0D1117&color=FF8A3D&line=FF8A3D&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&title_color=FF8A3D&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" width="100%" />
+</p>
+
+<br/>
+
+<!-- ===================== QUOTE ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF8A3D,100:8B5CF6&height=2&section=header" width="45%" alt="divider" />
+</p>
+
+<h3 align="center">
+  <i>“Talk is cheap. Show me the code.”</i>
+</h3>
+<p align="center">
+  <sub>— Linus Torvalds</sub>
+</p>
+
+<br/>
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parineetarao&label=Profile+views&color=FF8A3D&style=for-the-badge&labelColor=161B22" alt="Profile views" />
+</p>
