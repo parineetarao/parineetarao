@@ -164,9 +164,3 @@
 </p>
 
 <br/>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parineetarao&label=Profile+views&color=FF8A3D&style=for-the-badge&labelColor=161B22" alt="Profile views" />
-</p>
