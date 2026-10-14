@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/LLMs-5B2A86?style=flat" alt="LLMs" height="26" />
   <img src="https://img.shields.io/badge/RAG-9A5A7A?style=flat" alt="RAG" height="26" />
   <img src="https://img.shields.io/badge/NLP-5B2A86?style=flat" alt="NLP" height="26" />
-  <img src="https://img.shields.io/badge/Applied_ML-9A5A7A?style=flat" alt="Applied ML" height="26" />
+  <img src="https://img.shields.io/badge/AI_Agents-9A5A7A?style=flat" alt="AI_Agents" height="26" />
   <img src="https://img.shields.io/badge/Automation-5B2A86?style=flat" alt="Automation" height="26" />
 </p>
 
